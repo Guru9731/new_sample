@@ -5,3 +5,4 @@ if (% 2==0):
 
 else:
 	print("this is odd number")
+#this is a simple command i have written here 
